@@ -10,6 +10,7 @@
     "url": "https://github.com/saleor/saleor-app-payment-stripe/issues",
     "email": "hello@saleor.io"
   },
+  "type": "module",
   "scripts": {
     "dev": "pnpm generate && next dev",
     "build": "pnpm generate && next build",
